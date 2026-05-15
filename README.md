@@ -186,24 +186,6 @@ http://your-load-balancer-dns
 
 ---
 
-# 📂 Project Structure
-
-```text
-Multi-tier-Web-App-Deployment/
-│── Frontend server.png
-│── frontend server calling to Backend.png
-│── Backend server (open in browser).png
-│── Command for Backend.png
-│── Databases created Backend server.png
-│── Instances.png
-│── Load Balancer.png
-│── RDS Database.png
-│── Target Group.png
-│── README.md
-```
-
----
-
 # 💡 Key Features
 - Three-tier Architecture
 - Improved Security
