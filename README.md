@@ -182,7 +182,7 @@ http://your-load-balancer-dns
 ---
 
 ## 🎯 Target Group
-<img width="100%" alt="Target Group" src="Target Group.png">
+<img width="100%" alt="Target Group" src="screenshots/Frontend server.png">
 
 ---
 
