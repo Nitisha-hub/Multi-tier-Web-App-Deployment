@@ -142,7 +142,7 @@ http://your-load-balancer-dns
 # 📸 Project Screenshots
 
 ## 🌐 Frontend Server
-<img width="100%" alt="Frontend Server" src="Frontend server.png">
+<img width="100%" alt="Frontend Server" src="screenshots/Frontend server.png">
 
 ---
 
