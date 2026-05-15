@@ -167,7 +167,7 @@ http://your-load-balancer-dns
 ---
 
 ## 🖥️ EC2 Instances
-<img width="100%" alt="Instances" src="Instances.png">
+<img width="100%" alt="Instances" src="screenshots/Instances.png">
 
 ---
 
