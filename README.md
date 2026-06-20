@@ -208,9 +208,9 @@ http://your-load-balancer-dns
 # 🔮 Future Improvements
 - Add Auto Scaling
 - Configure HTTPS using ACM
-- Add CloudWatch Monitoring
+- Add CloudWatch Monitoring   
 - Integrate Route 53 Domain
-- Deploy using Terraform
+- Deploy using Terraform    
 
 ---
 
